@@ -1,5 +1,5 @@
 class PotatoFarm{
     public static String grow(){
-        return "You grew a carrot";
+        return "A potato has sprouted";
     }
 }
